@@ -1,4 +1,4 @@
-The  count of even num 
+//Finding the count of even num 
 let arr = [34, 545, 23, 76, 45, 77, 44, 109];
 let count = 0;
 
